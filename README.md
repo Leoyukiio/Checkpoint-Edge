@@ -58,5 +58,5 @@ O Arduino realiza essas leituras e atualizações **em tempo real**, garantindo 
 
 ### Esquema de montagem:
 
-![Estrutura Arduino](imagens/estrutura_arduino.jpg)
+![Estrutura Arduino](imagens/estrutura_arduino.png)
 
