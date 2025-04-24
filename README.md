@@ -11,7 +11,7 @@ Este repositório apresenta o projeto desenvolvido com base em um problema enfre
 | Leonardo Yukio        | RM562864   |
 | Vinicius Gama Q. Silva| RM561617   |
 | Victor Pereira        | RM561548   |
-| Paulo                 | RM565898   |
+| Paulo Rodrigues       | RM565898   |
 
 ---
 
